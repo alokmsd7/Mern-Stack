@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ideal-robot/static/css/main.4ffd9eb6.css",
+    "main.js": "/ideal-robot/static/js/main.a21b5f12.js",
+    "static/media/qw.jpg": "/ideal-robot/static/media/qw.479929b2f7e9f9d3fb7a.jpg",
+    "static/media/rt.jpg": "/ideal-robot/static/media/rt.e517d65a678940a1b379.jpg",
+    "index.html": "/ideal-robot/index.html",
+    "main.4ffd9eb6.css.map": "/ideal-robot/static/css/main.4ffd9eb6.css.map",
+    "main.a21b5f12.js.map": "/ideal-robot/static/js/main.a21b5f12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ffd9eb6.css",
+    "static/js/main.a21b5f12.js"
+  ]
+}
